@@ -1,0 +1,9 @@
+Number of records in the data file: 500
+Names of the fields: NAME RANK CITY STATE ZIP EMPLOYEES 
+The size of field one is 40.
+The size of field two is 5.
+The size of field three is 20.
+The size of field four is 5.
+The size of field five is 10.
+The size of field six is 10.
+There are currently 1 records in the overflow
